@@ -1,4 +1,4 @@
-Cricket Data Analysis – Batting Performance Insights
+### Cricket Data Analysis – Batting Performance Insights:
 
 ### Project Overview:
 
